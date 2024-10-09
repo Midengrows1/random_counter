@@ -47,3 +47,6 @@ function generateCards(item) {
 }
 
 const newArr = [];
+const helloFunction = ()=>{
+  console.log("hello Git hub");
+}
