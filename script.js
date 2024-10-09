@@ -45,3 +45,5 @@ function generateCards(item) {
         <p>${body ?? email}</p>`;
   container.append(card_div);
 }
+
+const newArr = [];
